@@ -11,7 +11,7 @@ canvas.height = HEIGHT;
 
 let data = [HEIGHT];
 
-const PESO = 0x02;
+const PESO = 0x80;
 
 //-- RETROLLAMADA DEL BOTON DE CONEXION
 btn_open.addEventListener('click', async () => {
